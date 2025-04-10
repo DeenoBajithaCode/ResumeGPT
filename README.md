@@ -7,12 +7,12 @@ This project analyzes resumes using OpenAI's GPT API. You can upload a resume (P
 - Upload a resume and get instant AI feedback
 - Grammar and clarity analysis using GPT
 - Optional job description input to evaluate job-fit
-- Flask API for integration or testing (e.g., with Postman)
+- Django API for integration or testing (e.g., with Postman)
 
 ## Requirements
 
 - Python 3.8+
-- Flask
+- Django
 - openai
 - PyMuPDF (for PDF parsing)
 - python-dotenv (for managing your API key)
